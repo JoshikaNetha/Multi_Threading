@@ -1,0 +1,3 @@
+/home/joshikanamani/Learnify/MultiThreading/CMakeFiles/rebuild_cache.dir
+/home/joshikanamani/Learnify/MultiThreading/CMakeFiles/edit_cache.dir
+/home/joshikanamani/Learnify/MultiThreading/CMakeFiles/MultiThreading.dir

@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ CMakeFiles/MultiThreading.dir/src/main.cpp.o -o MultiThreading  -lpthread 
